@@ -35,5 +35,4 @@ This program simulates or performs ransomware behavior by encrypting files on th
 
 ## 📄 License
 
-“No license. Not for redistribution or production use.”
-
+No license. Not for redistribution or production use.
